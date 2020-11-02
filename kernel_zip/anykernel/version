@@ -1,0 +1,30 @@
+***************************************************
+* Device    : S. Galaxy A40 (All variants, F/G/M) *
+* Source    : Based on A405FN_EUR_PP source code  *
+* Version   : Eureka R4.1                         *
+* Chipset   : Exynos 7904 with Mali G71 MP2       *
+* Android   : FOR ANDROID VERSION 9 (PIE)         *
+* Developer : @Chatur27 on XDA                    *
+* Contact   : @chatur2709 on Telegram             *
+***************************************************
+*         PERFORMANCE AND GAMING KERNEL           *
+***************************************************
+* Antutu score for stock kernel: ~106388          *
+* Antutu score for Eureka kernel: ~142693         *
+*                                                 *
+* 3DMark Sling Shot score for stock kernel: ~900  *
+* 3DMark Sling Shot score for Eureka kernel: ~1460*
+***************************************************
+*       THIS VERSION IS FOR ONEUI ONLY!!!         *
+***************************************************
+* Overclock Big cores from 1.77 Ghz to 2.28 Ghz   *
+* Overclock Little cores from 1.59 Ghz to 1.69 Ghz*
+* Underclock Big cores from 936 MHz to 312 MHz    *
+* Underclock Little cores from 449 MHz to 208 MHz *
+* Overclock Gpu max freq from 845 MHz to 1300MHz  *
+* Removed Security Stuffs, debbuging codes, etc.. *
+* Balance between performance and battery life    *
+* Enabled and adapted spectrum support for Eureka *
+* Compiled kernel with linaro 4.9.4 toolchain !   *
+* Pre-patched with magisk 20.4                    *
+***************************************************
